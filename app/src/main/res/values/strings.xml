@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBindingApp</string>
+    <string name="firstname">Enter the first name</string>
+    <string name="secondname">Enter the second name</string>
+    <string name="fullname">FullName</string>
+    <string name="btn_next">Next</string>
+    <string name="ClickMe">Click Me!</string>
+</resources>
